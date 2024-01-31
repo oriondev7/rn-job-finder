@@ -1,0 +1,5 @@
+export { About } from './about'
+export { Company } from './company'
+export { Footer } from './footer'
+export { Specifics } from './specifics'
+export { Tabs } from './tabs'

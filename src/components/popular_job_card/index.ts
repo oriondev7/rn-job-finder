@@ -1,0 +1,1 @@
+export { PopularJobCard } from './PopularJobCard'
